@@ -87,7 +87,7 @@ Join us to:
 - Participate in monthly **#DataDive** sessions
 - Mentor or get mentored
 
-🔗 [Join the LinkedIn Community](https://www.linkedin.com/groups/...) *(insert your link)*
+🔗 [Join the LinkedIn Community](https://www.linkedin.com/groups/11836061/)
 
 ---
 
