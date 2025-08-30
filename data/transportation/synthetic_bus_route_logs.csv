@@ -1,0 +1,501 @@
+route_name,start_stop,end_stop,departure_time,travel_duration_min,passenger_count,day_of_week,is_peak_hour
+Anbessa Route 5,Cemit,Harmony,14:14,19,48,Mon,False
+Blue Star,Sarbet,Piazza,07:05,64,22,Thu,False
+Blue Star,Cemit,Piazza,06:47,99,22,Tue,True
+Ride,Kazanchis,Kality,06:56,72,49,Thu,False
+Anbessa Route 1,Cemit,Gulele,09:08,93,52,Fri,False
+Anbessa Route 5,Leghar,Piazza,16:04,98,37,Wed,False
+Ride,Cemit,Harmony,12:32,22,27,Thu,False
+Anbessa Route 1,Leghar,Lideta,11:55,45,28,Fri,True
+Habesha,Sarbet,Piazza,19:16,26,47,Fri,False
+Anbessa Route 5,Sarbet,Harmony,14:18,35,41,Fri,True
+Anbessa Route 5,Sarbet,Kality,06:00,108,31,Wed,False
+Blue Star,Cemit,Lideta,18:45,76,11,Wed,True
+Gelila,Sarbet,Harmony,16:05,105,22,Sun,False
+Anbessa Route 1,Cemit,Piazza,16:05,104,32,Wed,False
+Anbessa Route 5,Cemit,Gulele,06:29,47,34,Tue,False
+Anbessa Route 1,Mexico,Lideta,19:34,40,37,Wed,True
+Ride,Mexico,Lideta,12:09,104,20,Wed,True
+Ride,Cemit,Gulele,08:18,114,42,Wed,False
+Gelila,Leghar,Lideta,08:27,54,33,Thu,False
+Anbessa Route 5,Kazanchis,Piazza,12:03,79,11,Wed,False
+Blue Star,Ayat,Lideta,09:18,73,39,Tue,True
+Anbessa Route 5,Mexico,Piazza,15:26,29,26,Fri,False
+Anbessa Route 1,Cemit,Gulele,14:33,15,49,Thu,False
+Habesha,Ayat,Bole,09:55,25,43,Mon,False
+Ride,Mexico,Gulele,11:06,69,47,Wed,False
+Anbessa Route 1,Kazanchis,Piazza,18:06,16,31,Sun,False
+Gelila,Leghar,Kality,07:51,79,14,Sun,True
+Ride,Cemit,Gulele,15:25,109,57,Fri,True
+Blue Star,Kazanchis,Kality,11:18,58,49,Fri,False
+Ride,Mexico,Kality,14:19,30,25,Thu,True
+Habesha,Cemit,Piazza,15:44,36,22,Sun,False
+Anbessa Route 5,Ayat,Piazza,07:15,32,35,Mon,False
+Habesha,Sarbet,Bole,11:16,61,40,Sat,False
+Habesha,Leghar,Harmony,11:12,95,48,Sun,False
+Anbessa Route 5,Mexico,Lideta,17:09,44,57,Sun,True
+Ride,Leghar,Gulele,06:31,24,32,Tue,True
+Gelila,Cemit,Piazza,19:07,113,57,Sat,False
+Anbessa Route 5,Sarbet,Gulele,10:21,72,21,Fri,True
+Anbessa Route 5,Kazanchis,Harmony,07:01,76,23,Sat,False
+Blue Star,Leghar,Harmony,17:08,99,27,Sun,False
+Ride,Ayat,Kality,08:53,94,36,Fri,True
+Anbessa Route 5,Mexico,Lideta,15:20,20,37,Sat,True
+Gelila,Ayat,Bole,19:27,81,27,Fri,False
+Anbessa Route 1,Leghar,Gulele,09:25,55,25,Fri,False
+Ride,Sarbet,Lideta,07:07,57,25,Thu,True
+Blue Star,Kazanchis,Bole,15:47,99,22,Mon,False
+Habesha,Kazanchis,Gulele,12:42,91,38,Fri,False
+Anbessa Route 5,Ayat,Lideta,07:53,32,18,Tue,False
+Gelila,Cemit,Piazza,19:39,72,35,Sun,True
+Ride,Cemit,Gulele,12:14,74,37,Sun,True
+Gelila,Sarbet,Lideta,06:52,102,50,Tue,False
+Gelila,Kazanchis,Harmony,07:31,41,22,Wed,False
+Habesha,Ayat,Bole,11:22,82,45,Fri,False
+Blue Star,Ayat,Lideta,19:45,36,18,Fri,False
+Ride,Ayat,Piazza,12:34,38,56,Fri,False
+Anbessa Route 5,Leghar,Gulele,12:14,54,23,Sat,True
+Blue Star,Sarbet,Gulele,10:23,88,21,Fri,False
+Anbessa Route 5,Cemit,Gulele,17:15,80,41,Fri,False
+Anbessa Route 1,Cemit,Piazza,13:38,54,47,Tue,True
+Gelila,Leghar,Bole,11:01,20,12,Mon,True
+Anbessa Route 1,Mexico,Gulele,11:12,32,25,Mon,False
+Gelila,Leghar,Bole,17:46,95,29,Wed,True
+Habesha,Sarbet,Lideta,16:08,116,41,Tue,True
+Blue Star,Ayat,Harmony,07:16,101,32,Fri,False
+Anbessa Route 5,Leghar,Harmony,16:28,44,26,Mon,False
+Habesha,Ayat,Bole,10:42,35,25,Thu,False
+Anbessa Route 5,Sarbet,Bole,11:50,76,47,Thu,False
+Blue Star,Sarbet,Harmony,13:06,24,17,Thu,True
+Ride,Kazanchis,Gulele,07:47,27,28,Fri,True
+Anbessa Route 1,Ayat,Kality,17:22,90,39,Fri,True
+Anbessa Route 1,Cemit,Kality,06:56,23,43,Wed,True
+Anbessa Route 5,Leghar,Piazza,18:22,82,23,Sun,False
+Anbessa Route 5,Sarbet,Harmony,11:31,53,31,Wed,False
+Anbessa Route 5,Ayat,Harmony,18:49,38,53,Wed,False
+Blue Star,Mexico,Piazza,08:00,48,26,Sat,True
+Ride,Kazanchis,Kality,15:44,117,24,Thu,True
+Anbessa Route 1,Mexico,Lideta,10:56,75,59,Fri,False
+Habesha,Sarbet,Gulele,18:53,55,57,Thu,False
+Gelila,Mexico,Gulele,10:59,19,41,Wed,True
+Blue Star,Mexico,Lideta,08:20,93,22,Fri,False
+Anbessa Route 1,Kazanchis,Lideta,13:59,64,30,Tue,True
+Ride,Kazanchis,Kality,07:20,18,58,Mon,True
+Blue Star,Kazanchis,Piazza,11:09,65,49,Mon,False
+Habesha,Kazanchis,Lideta,13:39,66,42,Wed,True
+Anbessa Route 1,Mexico,Piazza,10:24,53,36,Sun,False
+Blue Star,Cemit,Bole,09:59,22,44,Thu,True
+Anbessa Route 1,Cemit,Gulele,14:58,59,25,Tue,True
+Anbessa Route 1,Kazanchis,Kality,12:21,102,37,Fri,True
+Ride,Leghar,Gulele,09:33,42,43,Sun,False
+Gelila,Ayat,Kality,13:05,41,56,Thu,False
+Ride,Sarbet,Bole,17:30,79,10,Wed,False
+Anbessa Route 1,Leghar,Gulele,08:38,48,50,Thu,False
+Blue Star,Sarbet,Bole,15:22,95,57,Wed,False
+Habesha,Leghar,Kality,11:15,115,40,Sat,True
+Ride,Leghar,Lideta,07:23,76,45,Mon,True
+Gelila,Cemit,Gulele,06:44,76,53,Sun,True
+Anbessa Route 1,Ayat,Bole,06:05,52,42,Mon,True
+Habesha,Leghar,Harmony,10:56,40,42,Thu,False
+Ride,Kazanchis,Gulele,18:59,38,48,Tue,True
+Ride,Sarbet,Gulele,12:49,53,27,Fri,True
+Ride,Cemit,Gulele,18:11,35,32,Wed,True
+Ride,Sarbet,Piazza,12:46,108,32,Fri,False
+Habesha,Kazanchis,Bole,08:47,61,24,Mon,False
+Blue Star,Kazanchis,Bole,06:26,62,35,Tue,False
+Gelila,Leghar,Gulele,13:43,27,39,Tue,True
+Gelila,Kazanchis,Lideta,08:58,115,34,Fri,True
+Anbessa Route 1,Ayat,Gulele,13:54,17,54,Mon,True
+Anbessa Route 5,Kazanchis,Piazza,17:46,46,25,Fri,False
+Blue Star,Leghar,Kality,07:29,49,48,Thu,True
+Anbessa Route 1,Sarbet,Piazza,19:48,33,57,Tue,False
+Anbessa Route 1,Kazanchis,Lideta,12:44,28,54,Tue,False
+Ride,Cemit,Gulele,06:37,62,23,Thu,True
+Anbessa Route 5,Cemit,Bole,18:10,100,26,Mon,True
+Anbessa Route 5,Cemit,Harmony,15:47,95,21,Tue,True
+Blue Star,Sarbet,Gulele,16:25,82,38,Sun,False
+Anbessa Route 5,Mexico,Lideta,13:54,59,41,Sat,False
+Anbessa Route 1,Cemit,Bole,09:16,118,33,Sat,False
+Anbessa Route 5,Cemit,Piazza,06:03,33,22,Sat,False
+Anbessa Route 5,Mexico,Kality,10:59,78,29,Wed,False
+Gelila,Sarbet,Kality,12:45,115,24,Sun,False
+Anbessa Route 1,Cemit,Gulele,09:09,80,13,Wed,True
+Habesha,Leghar,Piazza,19:27,93,43,Mon,True
+Anbessa Route 5,Sarbet,Harmony,06:42,80,37,Thu,True
+Anbessa Route 5,Cemit,Harmony,15:54,89,59,Fri,False
+Ride,Cemit,Lideta,07:47,59,11,Sun,True
+Anbessa Route 5,Mexico,Kality,18:26,101,56,Mon,False
+Anbessa Route 5,Leghar,Piazza,07:39,88,39,Fri,True
+Gelila,Sarbet,Gulele,17:09,81,35,Mon,False
+Anbessa Route 1,Kazanchis,Bole,15:41,83,56,Wed,True
+Blue Star,Ayat,Gulele,10:09,17,35,Sat,True
+Anbessa Route 1,Leghar,Gulele,07:20,52,29,Thu,False
+Ride,Kazanchis,Piazza,13:37,91,51,Wed,False
+Anbessa Route 1,Leghar,Kality,08:39,56,37,Thu,False
+Anbessa Route 5,Kazanchis,Piazza,19:40,97,29,Sun,True
+Ride,Kazanchis,Bole,10:01,54,20,Fri,True
+Anbessa Route 1,Leghar,Piazza,07:38,64,19,Mon,False
+Ride,Mexico,Lideta,06:41,49,32,Tue,False
+Blue Star,Leghar,Gulele,17:33,38,46,Tue,True
+Anbessa Route 1,Leghar,Kality,15:19,102,50,Thu,False
+Habesha,Kazanchis,Harmony,06:03,31,28,Sat,False
+Anbessa Route 5,Ayat,Bole,18:43,54,54,Sat,False
+Ride,Kazanchis,Harmony,16:41,88,27,Thu,True
+Habesha,Cemit,Gulele,10:24,80,58,Wed,True
+Habesha,Leghar,Piazza,06:59,58,36,Tue,False
+Gelila,Sarbet,Harmony,10:33,37,15,Wed,False
+Ride,Leghar,Lideta,14:05,20,19,Fri,False
+Habesha,Mexico,Piazza,07:13,80,11,Tue,True
+Gelila,Sarbet,Gulele,08:13,35,33,Fri,True
+Habesha,Kazanchis,Harmony,13:16,49,47,Mon,False
+Anbessa Route 5,Mexico,Bole,17:34,43,37,Wed,True
+Blue Star,Leghar,Harmony,18:41,21,37,Thu,True
+Gelila,Kazanchis,Harmony,06:58,107,54,Tue,True
+Blue Star,Kazanchis,Kality,16:07,67,59,Wed,False
+Ride,Cemit,Harmony,06:44,51,48,Thu,True
+Anbessa Route 5,Cemit,Gulele,10:35,37,11,Mon,False
+Gelila,Ayat,Bole,12:45,111,55,Tue,False
+Ride,Cemit,Gulele,10:23,22,14,Fri,False
+Habesha,Sarbet,Lideta,17:42,90,59,Mon,False
+Anbessa Route 1,Kazanchis,Piazza,06:36,62,20,Sat,True
+Ride,Cemit,Harmony,09:02,24,19,Thu,False
+Blue Star,Ayat,Kality,10:25,93,52,Tue,False
+Anbessa Route 5,Leghar,Bole,08:47,38,11,Tue,False
+Anbessa Route 5,Sarbet,Kality,13:12,104,24,Sun,False
+Ride,Cemit,Kality,08:00,61,48,Sun,False
+Habesha,Kazanchis,Kality,14:30,67,50,Mon,False
+Anbessa Route 1,Leghar,Harmony,14:53,53,46,Tue,True
+Blue Star,Kazanchis,Bole,15:16,81,16,Thu,False
+Ride,Leghar,Bole,13:33,80,29,Mon,False
+Ride,Sarbet,Kality,14:55,20,43,Fri,True
+Anbessa Route 5,Kazanchis,Piazza,08:12,35,44,Mon,False
+Blue Star,Cemit,Harmony,10:40,87,43,Mon,True
+Anbessa Route 1,Cemit,Harmony,18:00,88,31,Fri,False
+Anbessa Route 5,Ayat,Gulele,14:46,50,40,Sat,False
+Ride,Leghar,Harmony,09:35,17,32,Sun,False
+Anbessa Route 5,Ayat,Kality,09:09,119,28,Thu,False
+Anbessa Route 5,Mexico,Lideta,17:56,102,13,Sat,True
+Gelila,Cemit,Kality,19:05,100,33,Sat,True
+Anbessa Route 5,Leghar,Bole,16:55,92,29,Sat,True
+Habesha,Sarbet,Harmony,17:51,56,48,Sun,False
+Anbessa Route 5,Ayat,Harmony,08:45,59,37,Wed,False
+Habesha,Sarbet,Gulele,06:09,58,48,Sun,False
+Blue Star,Sarbet,Lideta,12:35,105,26,Sat,True
+Anbessa Route 5,Sarbet,Harmony,19:55,47,28,Wed,False
+Anbessa Route 1,Ayat,Gulele,19:02,74,57,Fri,True
+Habesha,Mexico,Gulele,06:52,100,44,Sun,False
+Habesha,Ayat,Lideta,19:49,107,41,Thu,False
+Ride,Kazanchis,Kality,08:21,97,56,Sat,False
+Blue Star,Cemit,Kality,08:34,97,55,Tue,False
+Anbessa Route 5,Ayat,Kality,17:53,84,56,Fri,False
+Anbessa Route 1,Ayat,Piazza,10:09,97,55,Wed,False
+Ride,Mexico,Kality,14:32,91,48,Sun,False
+Blue Star,Kazanchis,Lideta,18:34,40,44,Thu,False
+Habesha,Ayat,Piazza,08:31,100,39,Mon,True
+Anbessa Route 1,Cemit,Kality,16:47,35,26,Thu,True
+Anbessa Route 5,Cemit,Piazza,11:23,114,51,Thu,False
+Gelila,Ayat,Lideta,08:18,16,56,Sat,False
+Gelila,Sarbet,Kality,11:39,61,38,Sat,True
+Blue Star,Sarbet,Bole,11:44,44,15,Sun,False
+Anbessa Route 1,Kazanchis,Harmony,17:41,41,26,Sun,True
+Ride,Cemit,Lideta,08:03,85,26,Wed,True
+Anbessa Route 1,Sarbet,Gulele,06:12,34,23,Sun,False
+Habesha,Cemit,Gulele,13:35,64,33,Wed,False
+Gelila,Kazanchis,Lideta,11:42,109,59,Sat,False
+Blue Star,Kazanchis,Gulele,08:42,37,46,Sat,False
+Anbessa Route 5,Sarbet,Lideta,17:10,27,49,Tue,False
+Anbessa Route 1,Ayat,Bole,11:11,95,48,Tue,False
+Gelila,Leghar,Lideta,16:40,18,41,Fri,True
+Ride,Mexico,Kality,14:41,28,45,Sat,True
+Blue Star,Leghar,Kality,08:02,34,59,Mon,True
+Anbessa Route 5,Leghar,Piazza,09:27,27,46,Tue,False
+Anbessa Route 1,Cemit,Gulele,12:47,17,57,Wed,True
+Ride,Kazanchis,Harmony,08:41,104,23,Thu,True
+Anbessa Route 5,Cemit,Gulele,13:42,104,36,Sun,True
+Habesha,Sarbet,Lideta,13:05,96,28,Sun,False
+Gelila,Mexico,Harmony,09:10,110,40,Fri,True
+Habesha,Sarbet,Harmony,17:26,92,55,Tue,False
+Gelila,Ayat,Gulele,10:43,61,18,Thu,True
+Ride,Mexico,Harmony,07:12,17,47,Thu,True
+Habesha,Cemit,Harmony,11:34,15,26,Tue,True
+Gelila,Cemit,Kality,11:27,104,28,Mon,False
+Blue Star,Sarbet,Bole,10:45,38,53,Mon,False
+Ride,Cemit,Lideta,07:30,49,13,Fri,True
+Gelila,Cemit,Gulele,17:45,28,57,Mon,True
+Anbessa Route 1,Leghar,Kality,10:20,81,20,Fri,False
+Gelila,Ayat,Piazza,19:24,27,31,Wed,True
+Habesha,Leghar,Harmony,16:39,61,13,Tue,True
+Blue Star,Cemit,Harmony,17:59,64,26,Thu,True
+Anbessa Route 5,Kazanchis,Gulele,12:30,92,17,Fri,True
+Anbessa Route 5,Leghar,Bole,17:28,99,55,Sun,True
+Gelila,Cemit,Bole,19:50,40,43,Mon,True
+Anbessa Route 5,Cemit,Gulele,15:19,17,20,Sun,True
+Gelila,Ayat,Gulele,11:18,65,40,Fri,False
+Blue Star,Sarbet,Kality,16:24,54,20,Sat,True
+Anbessa Route 5,Mexico,Gulele,13:37,82,47,Fri,False
+Habesha,Leghar,Piazza,09:22,50,30,Mon,True
+Habesha,Leghar,Kality,18:14,65,55,Sat,False
+Anbessa Route 1,Leghar,Harmony,16:02,15,39,Sat,True
+Gelila,Cemit,Harmony,15:14,118,19,Mon,False
+Anbessa Route 5,Ayat,Harmony,13:15,47,35,Sat,True
+Habesha,Cemit,Harmony,06:18,21,36,Tue,False
+Blue Star,Cemit,Lideta,16:47,66,17,Thu,True
+Blue Star,Sarbet,Piazza,10:04,25,48,Sun,True
+Anbessa Route 1,Kazanchis,Kality,15:13,41,17,Tue,False
+Blue Star,Ayat,Kality,07:25,28,17,Tue,False
+Blue Star,Leghar,Harmony,13:04,100,43,Mon,True
+Anbessa Route 5,Mexico,Bole,12:15,94,25,Mon,False
+Gelila,Leghar,Kality,12:13,60,50,Sun,True
+Ride,Cemit,Piazza,10:55,90,22,Thu,True
+Blue Star,Ayat,Gulele,14:03,24,32,Fri,False
+Blue Star,Ayat,Piazza,09:47,38,21,Tue,True
+Ride,Ayat,Harmony,13:16,75,36,Sat,False
+Blue Star,Kazanchis,Harmony,09:05,32,31,Thu,True
+Anbessa Route 5,Leghar,Lideta,18:35,100,41,Tue,False
+Anbessa Route 5,Kazanchis,Kality,11:36,23,58,Fri,False
+Ride,Sarbet,Kality,19:56,31,36,Sat,False
+Habesha,Mexico,Kality,15:40,116,11,Tue,False
+Blue Star,Sarbet,Harmony,09:28,118,54,Wed,True
+Habesha,Cemit,Kality,19:03,72,42,Sun,False
+Blue Star,Kazanchis,Bole,17:55,27,35,Thu,True
+Gelila,Kazanchis,Bole,15:35,64,37,Sun,False
+Blue Star,Sarbet,Gulele,07:44,115,28,Mon,False
+Anbessa Route 5,Cemit,Kality,18:45,20,52,Tue,False
+Anbessa Route 1,Ayat,Lideta,07:32,99,14,Sat,False
+Anbessa Route 1,Cemit,Gulele,10:15,65,42,Sat,True
+Anbessa Route 1,Leghar,Harmony,11:56,50,29,Thu,False
+Anbessa Route 1,Sarbet,Kality,10:05,85,39,Thu,True
+Habesha,Cemit,Bole,11:02,114,54,Sun,False
+Habesha,Ayat,Lideta,17:35,39,17,Sat,True
+Blue Star,Cemit,Gulele,06:35,25,47,Sat,False
+Habesha,Kazanchis,Lideta,06:30,58,26,Sat,True
+Blue Star,Mexico,Kality,10:26,28,53,Tue,False
+Gelila,Kazanchis,Piazza,16:07,43,10,Sat,True
+Blue Star,Mexico,Lideta,13:36,88,12,Mon,False
+Anbessa Route 1,Cemit,Lideta,19:31,64,55,Sat,True
+Ride,Leghar,Harmony,15:01,19,35,Mon,False
+Ride,Cemit,Bole,17:21,86,40,Tue,True
+Anbessa Route 5,Ayat,Kality,06:06,83,17,Thu,False
+Anbessa Route 5,Cemit,Lideta,16:03,102,52,Mon,True
+Blue Star,Mexico,Kality,10:37,118,55,Tue,False
+Ride,Kazanchis,Bole,16:00,71,17,Sat,True
+Anbessa Route 1,Leghar,Harmony,14:41,40,44,Tue,False
+Habesha,Cemit,Kality,09:23,20,48,Sat,True
+Anbessa Route 1,Cemit,Bole,10:42,30,37,Sun,True
+Anbessa Route 1,Kazanchis,Bole,13:16,74,13,Tue,False
+Blue Star,Leghar,Gulele,13:58,114,25,Thu,True
+Blue Star,Sarbet,Harmony,18:26,26,22,Mon,True
+Gelila,Cemit,Harmony,09:17,89,29,Sun,False
+Anbessa Route 1,Cemit,Kality,16:21,17,14,Thu,False
+Anbessa Route 1,Sarbet,Piazza,07:04,77,46,Wed,False
+Blue Star,Mexico,Gulele,07:02,78,29,Sat,True
+Blue Star,Mexico,Harmony,16:53,76,33,Mon,True
+Gelila,Ayat,Bole,06:15,115,45,Thu,False
+Gelila,Kazanchis,Harmony,11:50,20,43,Mon,True
+Anbessa Route 5,Leghar,Piazza,12:49,33,54,Wed,False
+Ride,Cemit,Lideta,19:37,32,57,Fri,True
+Anbessa Route 1,Cemit,Lideta,13:14,94,43,Sat,False
+Anbessa Route 1,Ayat,Harmony,06:42,101,28,Sat,False
+Gelila,Cemit,Harmony,16:28,57,26,Tue,False
+Gelila,Kazanchis,Gulele,14:36,115,14,Sat,True
+Anbessa Route 5,Ayat,Harmony,10:28,87,34,Sat,False
+Ride,Kazanchis,Piazza,17:52,17,27,Thu,True
+Anbessa Route 5,Ayat,Harmony,11:01,86,59,Sun,False
+Ride,Cemit,Kality,11:45,52,17,Sat,False
+Habesha,Ayat,Piazza,16:03,82,36,Sat,True
+Anbessa Route 1,Mexico,Gulele,13:28,90,24,Wed,False
+Anbessa Route 5,Leghar,Kality,16:24,58,54,Sun,False
+Gelila,Cemit,Kality,14:55,109,22,Wed,True
+Anbessa Route 5,Sarbet,Lideta,08:25,103,25,Mon,False
+Habesha,Leghar,Piazza,16:26,94,31,Mon,True
+Anbessa Route 5,Cemit,Kality,09:31,77,29,Sat,True
+Anbessa Route 1,Leghar,Gulele,06:56,56,22,Sat,False
+Habesha,Mexico,Lideta,10:53,78,29,Tue,False
+Gelila,Leghar,Kality,08:47,68,11,Mon,True
+Gelila,Ayat,Piazza,16:25,92,44,Thu,False
+Blue Star,Leghar,Lideta,13:54,91,56,Sat,False
+Habesha,Cemit,Piazza,06:25,119,28,Thu,False
+Blue Star,Sarbet,Piazza,17:52,85,54,Sat,False
+Blue Star,Sarbet,Piazza,15:08,90,46,Thu,True
+Anbessa Route 1,Kazanchis,Lideta,17:58,51,15,Fri,False
+Anbessa Route 5,Leghar,Kality,17:21,18,23,Thu,False
+Gelila,Sarbet,Harmony,13:57,16,13,Sun,True
+Gelila,Leghar,Bole,06:41,113,31,Mon,False
+Anbessa Route 5,Sarbet,Kality,16:38,58,48,Sat,True
+Gelila,Leghar,Lideta,08:24,81,45,Mon,True
+Anbessa Route 5,Cemit,Bole,11:20,82,43,Sun,False
+Habesha,Leghar,Bole,13:23,116,36,Sun,False
+Anbessa Route 1,Cemit,Bole,17:59,90,16,Thu,False
+Anbessa Route 1,Cemit,Harmony,08:49,97,12,Wed,False
+Anbessa Route 1,Kazanchis,Gulele,07:13,88,56,Wed,False
+Anbessa Route 5,Sarbet,Lideta,10:31,76,42,Sun,False
+Anbessa Route 5,Ayat,Harmony,15:31,15,11,Wed,False
+Ride,Cemit,Harmony,17:47,31,51,Sat,True
+Gelila,Sarbet,Gulele,12:39,30,25,Tue,True
+Gelila,Mexico,Bole,15:46,23,34,Fri,True
+Ride,Leghar,Gulele,13:12,67,24,Thu,False
+Ride,Mexico,Gulele,17:07,87,33,Tue,False
+Anbessa Route 1,Leghar,Harmony,15:11,73,24,Wed,True
+Ride,Kazanchis,Lideta,16:50,23,40,Thu,True
+Anbessa Route 5,Cemit,Piazza,19:26,26,23,Tue,True
+Blue Star,Ayat,Gulele,07:44,55,23,Mon,True
+Anbessa Route 5,Cemit,Gulele,09:48,29,15,Wed,False
+Ride,Leghar,Bole,08:26,80,23,Tue,False
+Gelila,Ayat,Bole,14:54,89,26,Sat,True
+Anbessa Route 5,Cemit,Harmony,12:00,25,27,Mon,False
+Gelila,Ayat,Bole,12:25,22,29,Wed,False
+Anbessa Route 5,Leghar,Kality,12:51,69,26,Fri,False
+Gelila,Kazanchis,Gulele,12:07,110,25,Sun,True
+Habesha,Kazanchis,Bole,08:44,20,49,Wed,False
+Anbessa Route 5,Cemit,Lideta,15:49,67,48,Sat,True
+Gelila,Mexico,Kality,12:20,34,41,Fri,False
+Blue Star,Leghar,Harmony,10:36,53,53,Fri,False
+Anbessa Route 1,Cemit,Piazza,12:56,113,18,Fri,False
+Anbessa Route 5,Cemit,Gulele,16:55,86,36,Thu,True
+Blue Star,Kazanchis,Gulele,11:38,48,55,Thu,True
+Anbessa Route 1,Ayat,Lideta,14:26,71,42,Sun,True
+Anbessa Route 5,Leghar,Piazza,11:48,33,19,Fri,False
+Blue Star,Ayat,Piazza,09:23,85,26,Sun,True
+Blue Star,Sarbet,Harmony,12:47,45,58,Mon,True
+Habesha,Sarbet,Harmony,08:41,96,58,Fri,False
+Blue Star,Leghar,Kality,08:26,54,45,Tue,False
+Habesha,Mexico,Gulele,08:27,28,26,Fri,False
+Ride,Sarbet,Bole,06:30,117,27,Thu,True
+Gelila,Kazanchis,Harmony,15:48,114,32,Thu,False
+Anbessa Route 1,Mexico,Lideta,11:29,95,43,Tue,True
+Gelila,Cemit,Lideta,19:48,51,17,Tue,False
+Gelila,Sarbet,Lideta,10:35,58,22,Wed,True
+Habesha,Kazanchis,Harmony,10:22,23,32,Mon,False
+Gelila,Cemit,Harmony,11:11,72,29,Mon,False
+Blue Star,Mexico,Lideta,14:53,34,31,Mon,False
+Habesha,Leghar,Harmony,14:19,106,56,Sat,False
+Gelila,Cemit,Bole,06:48,64,32,Thu,True
+Habesha,Ayat,Bole,15:06,34,50,Mon,True
+Ride,Leghar,Kality,18:47,119,44,Wed,False
+Habesha,Leghar,Gulele,18:12,50,12,Wed,False
+Anbessa Route 5,Mexico,Bole,08:01,41,43,Mon,False
+Blue Star,Mexico,Kality,19:37,86,42,Tue,False
+Anbessa Route 1,Kazanchis,Piazza,11:44,46,55,Wed,False
+Anbessa Route 5,Kazanchis,Gulele,12:04,15,26,Sun,False
+Anbessa Route 5,Ayat,Bole,13:06,31,54,Tue,True
+Anbessa Route 5,Leghar,Piazza,07:31,23,28,Sun,False
+Gelila,Ayat,Kality,06:12,98,39,Thu,True
+Habesha,Ayat,Bole,19:24,59,32,Sat,True
+Habesha,Mexico,Bole,10:59,110,24,Wed,False
+Gelila,Ayat,Harmony,16:20,80,23,Tue,False
+Blue Star,Ayat,Piazza,17:47,46,11,Sun,False
+Gelila,Cemit,Bole,15:19,59,48,Mon,False
+Gelila,Kazanchis,Lideta,07:04,23,58,Sun,False
+Gelila,Kazanchis,Harmony,07:59,44,27,Sun,True
+Blue Star,Leghar,Harmony,12:42,98,15,Thu,False
+Blue Star,Kazanchis,Bole,14:56,52,41,Fri,False
+Ride,Sarbet,Harmony,16:53,74,30,Fri,False
+Ride,Leghar,Gulele,06:47,15,49,Mon,True
+Ride,Cemit,Piazza,18:21,19,37,Thu,True
+Ride,Kazanchis,Gulele,10:19,77,36,Thu,False
+Habesha,Cemit,Kality,17:53,113,11,Thu,False
+Anbessa Route 5,Kazanchis,Gulele,11:47,50,42,Thu,False
+Anbessa Route 5,Kazanchis,Lideta,19:05,79,25,Fri,False
+Ride,Cemit,Harmony,07:13,92,48,Tue,False
+Ride,Ayat,Harmony,12:19,87,31,Thu,False
+Anbessa Route 1,Ayat,Lideta,18:46,108,52,Tue,False
+Anbessa Route 5,Ayat,Harmony,17:40,38,56,Sun,False
+Anbessa Route 1,Sarbet,Gulele,15:49,18,22,Sun,True
+Anbessa Route 1,Ayat,Kality,10:13,92,11,Thu,False
+Gelila,Kazanchis,Bole,09:56,103,23,Wed,False
+Habesha,Mexico,Lideta,09:07,82,47,Sat,False
+Blue Star,Cemit,Gulele,13:21,39,50,Wed,True
+Anbessa Route 5,Mexico,Gulele,11:15,88,37,Sun,False
+Ride,Sarbet,Gulele,16:55,113,16,Sat,False
+Ride,Mexico,Bole,17:59,21,27,Wed,False
+Blue Star,Leghar,Piazza,15:24,27,50,Thu,True
+Anbessa Route 5,Ayat,Harmony,10:26,82,45,Tue,False
+Ride,Sarbet,Harmony,06:32,57,50,Sat,False
+Ride,Kazanchis,Kality,07:41,71,45,Fri,False
+Gelila,Ayat,Piazza,15:20,50,53,Mon,True
+Anbessa Route 1,Ayat,Harmony,09:00,28,13,Sat,False
+Ride,Mexico,Kality,09:03,96,39,Sat,True
+Habesha,Leghar,Kality,15:03,86,33,Fri,True
+Anbessa Route 5,Ayat,Gulele,06:08,110,29,Thu,False
+Habesha,Cemit,Lideta,19:50,41,55,Wed,False
+Blue Star,Cemit,Gulele,18:03,51,40,Wed,False
+Gelila,Ayat,Bole,10:44,101,33,Sun,False
+Anbessa Route 5,Mexico,Harmony,12:15,85,16,Tue,True
+Gelila,Mexico,Kality,11:36,90,35,Thu,False
+Anbessa Route 1,Kazanchis,Lideta,13:47,39,22,Fri,True
+Ride,Sarbet,Harmony,19:32,81,17,Thu,False
+Anbessa Route 5,Sarbet,Kality,12:59,104,14,Thu,False
+Blue Star,Sarbet,Kality,11:42,18,53,Wed,False
+Anbessa Route 1,Leghar,Gulele,10:15,114,22,Fri,False
+Anbessa Route 1,Mexico,Lideta,12:50,93,38,Mon,False
+Gelila,Kazanchis,Lideta,06:08,110,29,Sat,False
+Anbessa Route 1,Cemit,Harmony,07:44,107,23,Wed,True
+Anbessa Route 5,Sarbet,Kality,15:46,88,41,Fri,True
+Gelila,Cemit,Lideta,08:23,99,59,Tue,False
+Anbessa Route 1,Cemit,Lideta,17:09,30,36,Sat,False
+Blue Star,Ayat,Harmony,14:12,33,34,Sat,True
+Habesha,Leghar,Gulele,08:53,43,13,Wed,True
+Anbessa Route 5,Kazanchis,Piazza,12:46,65,30,Sun,False
+Blue Star,Leghar,Bole,06:45,32,27,Tue,False
+Blue Star,Ayat,Piazza,12:51,72,48,Wed,True
+Gelila,Kazanchis,Lideta,10:39,58,24,Thu,True
+Ride,Kazanchis,Kality,09:19,30,47,Sun,False
+Gelila,Mexico,Bole,13:46,79,57,Fri,False
+Anbessa Route 5,Leghar,Bole,10:44,16,33,Tue,True
+Anbessa Route 5,Leghar,Kality,11:27,70,17,Sat,True
+Gelila,Mexico,Bole,16:04,93,37,Wed,False
+Ride,Cemit,Kality,06:38,117,30,Sat,False
+Gelila,Ayat,Bole,11:01,42,25,Tue,False
+Anbessa Route 5,Leghar,Harmony,16:38,79,25,Sat,False
+Ride,Mexico,Harmony,11:20,19,44,Wed,True
+Anbessa Route 5,Kazanchis,Piazza,13:36,36,26,Sun,False
+Ride,Sarbet,Bole,16:17,114,18,Wed,False
+Ride,Mexico,Gulele,11:47,27,44,Mon,True
+Gelila,Sarbet,Kality,19:11,79,38,Sat,False
+Gelila,Cemit,Bole,06:36,30,48,Mon,False
+Gelila,Ayat,Harmony,19:37,119,27,Sun,True
+Ride,Sarbet,Harmony,12:13,100,21,Mon,True
+Ride,Cemit,Kality,07:00,78,28,Sat,True
+Anbessa Route 5,Sarbet,Gulele,11:02,46,57,Tue,True
+Blue Star,Kazanchis,Bole,10:43,94,31,Thu,False
+Gelila,Kazanchis,Bole,16:12,65,58,Sun,False
+Habesha,Kazanchis,Gulele,07:16,93,24,Wed,False
+Anbessa Route 5,Kazanchis,Gulele,06:10,72,10,Fri,True
+Anbessa Route 5,Mexico,Gulele,09:09,60,11,Sun,False
+Anbessa Route 1,Kazanchis,Harmony,18:47,66,17,Mon,False
+Gelila,Kazanchis,Kality,07:16,77,31,Tue,False
+Anbessa Route 5,Mexico,Gulele,11:51,90,34,Sat,True
+Anbessa Route 1,Kazanchis,Kality,15:12,74,11,Tue,True
+Habesha,Cemit,Piazza,17:46,79,18,Tue,True
+Habesha,Cemit,Bole,12:26,95,18,Sat,False
+Gelila,Leghar,Bole,11:52,119,22,Fri,False
+Ride,Cemit,Lideta,15:27,69,15,Sat,False
+Anbessa Route 1,Ayat,Piazza,18:11,71,39,Fri,False
+Ride,Ayat,Gulele,17:27,106,24,Sat,True
+Habesha,Ayat,Gulele,07:36,85,24,Mon,False
+Habesha,Mexico,Harmony,14:56,87,59,Fri,False
+Blue Star,Cemit,Piazza,07:22,100,16,Mon,True
+Blue Star,Ayat,Gulele,15:51,40,20,Sun,True
+Blue Star,Leghar,Lideta,18:28,26,49,Fri,False
+Blue Star,Mexico,Kality,08:10,85,47,Fri,True
+Anbessa Route 5,Leghar,Bole,06:50,60,49,Sat,True
+Blue Star,Cemit,Piazza,16:08,61,11,Fri,False
+Anbessa Route 5,Kazanchis,Bole,19:08,93,57,Mon,False
+Anbessa Route 5,Leghar,Kality,12:47,52,48,Sun,True
+Gelila,Kazanchis,Piazza,08:28,35,19,Sat,False
+Anbessa Route 5,Mexico,Kality,08:35,28,53,Wed,False
+Anbessa Route 5,Leghar,Gulele,12:54,16,26,Sun,False
+Blue Star,Leghar,Gulele,17:43,86,16,Sun,True
+Anbessa Route 5,Sarbet,Gulele,19:17,84,49,Mon,False
+Ride,Mexico,Kality,17:04,115,48,Sun,False
+Blue Star,Mexico,Kality,12:54,115,13,Wed,False
+Anbessa Route 1,Ayat,Kality,11:25,47,44,Tue,True
+Blue Star,Cemit,Bole,15:11,119,56,Sat,True
+Anbessa Route 5,Leghar,Kality,13:18,20,45,Tue,False
+Ride,Leghar,Gulele,06:02,104,40,Sat,True
+Blue Star,Mexico,Lideta,16:17,117,34,Sun,False
+Ride,Mexico,Kality,07:29,119,50,Sat,True
+Anbessa Route 1,Cemit,Lideta,19:01,51,22,Mon,True
+Habesha,Mexico,Gulele,10:28,28,27,Wed,False
+Anbessa Route 1,Kazanchis,Kality,06:41,51,30,Sat,True
+Habesha,Kazanchis,Bole,09:29,22,57,Wed,False
