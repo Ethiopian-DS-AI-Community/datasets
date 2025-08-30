@@ -79,7 +79,7 @@ We invite you to help grow this repository! Contributions can include:
 
 ## 🤝 Community & Collaboration
 
-This repo is part of the larger **[Ethiopian Data Science & AI Community on LinkedIn](https://www.linkedin.com/groups/...)**.
+This repo is part of the larger **[Ethiopian Data Science & AI Community on LinkedIn](https://www.linkedin.com/groups/11836061/)**.
 
 Join us to:
 - Collaborate on projects
